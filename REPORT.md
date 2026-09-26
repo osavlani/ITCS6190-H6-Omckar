@@ -8,7 +8,7 @@
 
 ## Seed and commands
 
-Seed used for `datagen.py`:
+Seed used for `datagen.py`: 801497440
 
 The commands you ran, in order. If you deviated from the steps in the README, say where and
 why.
